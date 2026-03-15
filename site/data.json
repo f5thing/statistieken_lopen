@@ -494,6 +494,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17689208295",
       "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 9,
+      "name": "Ochtendloop",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17727340612",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 15,
+      "name": "Namiddagwandeling",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17732839994",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -914,6 +932,15 @@
           "distance": 8011.0,
           "elevation_gain": 0.0,
           "moving_time": 3354.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17727340612"
+          ],
+          "count": 1,
+          "distance": 7213.0,
+          "elevation_gain": 3.0,
+          "moving_time": 2461.0
         }
       },
       "Walk": {
@@ -925,11 +952,20 @@
           "distance": 2499.0,
           "elevation_gain": 0.0,
           "moving_time": 2748.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17732839994"
+          ],
+          "count": 1,
+          "distance": 2068.0,
+          "elevation_gain": 7.0,
+          "moving_time": 1961.0
         }
       }
     }
   },
-  "generated_at": "2026-03-14T15:53:34.058918+00:00",
+  "generated_at": "2026-03-15T15:55:24.063578+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/52574828",
   "repo": "f5thing/statistieken_lopen",
