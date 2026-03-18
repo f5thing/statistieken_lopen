@@ -521,6 +521,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17746836493",
       "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 19,
+      "name": "Avondsessie krachttraining",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17758373503",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -980,10 +989,21 @@
           "elevation_gain": 7.0,
           "moving_time": 1961.0
         }
+      },
+      "WeightTraining": {
+        "2026-03-17": {
+          "activity_ids": [
+            "17758373503"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1546.0
+        }
       }
     }
   },
-  "generated_at": "2026-03-17T18:09:25.369177+00:00",
+  "generated_at": "2026-03-18T18:11:47.518168+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/52574828",
   "repo": "f5thing/statistieken_lopen",
@@ -1001,12 +1021,17 @@
     "Walk": {
       "accent": "#d6ff6b",
       "label": "Walk"
+    },
+    "WeightTraining": {
+      "accent": "#ff71ce",
+      "label": "Weight Training"
     }
   },
   "types": [
     "Ride",
     "Run",
-    "Walk"
+    "Walk",
+    "WeightTraining"
   ],
   "units": {
     "distance": "km",
