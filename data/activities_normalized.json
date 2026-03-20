@@ -765,5 +765,31 @@
     "start_date_local": "2026-03-17T19:48:50Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 11076.0,
+    "elevation_gain": 10.0,
+    "id": "17783632226",
+    "moving_time": 4161.0,
+    "name": "Avondloop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-19T19:56:23Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 1995.0,
+    "elevation_gain": 10.0,
+    "id": "17784008039",
+    "moving_time": 1520.0,
+    "name": "Nachtwandeling",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-19T21:07:21Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
