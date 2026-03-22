@@ -791,5 +791,57 @@
     "start_date_local": "2026-03-19T21:07:21Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17808299620",
+    "moving_time": 1758.0,
+    "name": "Nachtsessie krachttraining",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-21T21:52:20Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 14015.4,
+    "elevation_gain": 12.0,
+    "id": "17813883549",
+    "moving_time": 5333.0,
+    "name": "Ochtendloop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-22T10:47:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 11811.0,
+    "elevation_gain": 24.0,
+    "id": "17816466241",
+    "moving_time": 2182.0,
+    "name": "Namiddagrit",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-22T13:35:00Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 6164.0,
+    "elevation_gain": 5.0,
+    "id": "17818200522",
+    "moving_time": 1107.0,
+    "name": "Namiddagrit",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-22T16:26:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
