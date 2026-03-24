@@ -843,5 +843,18 @@
     "start_date_local": "2026-03-22T16:26:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 13128.0,
+    "elevation_gain": 10.0,
+    "id": "17832442693",
+    "moving_time": 5007.0,
+    "name": "Avondloop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-23T20:09:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
