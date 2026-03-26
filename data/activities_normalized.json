@@ -869,5 +869,18 @@
     "start_date_local": "2026-03-24T20:23:51Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 11065.4,
+    "elevation_gain": 0.0,
+    "id": "17858141365",
+    "moving_time": 4210.0,
+    "name": "Avondloop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-25T20:11:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

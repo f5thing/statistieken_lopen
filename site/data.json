@@ -602,6 +602,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17845486298",
       "year": 2026
+    },
+    {
+      "date": "2026-03-25",
+      "hour": 20,
+      "name": "Avondloop",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17858141365",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1077,6 +1086,15 @@
           "distance": 13128.0,
           "elevation_gain": 10.0,
           "moving_time": 5007.0
+        },
+        "2026-03-25": {
+          "activity_ids": [
+            "17858141365"
+          ],
+          "count": 1,
+          "distance": 11065.4,
+          "elevation_gain": 0.0,
+          "moving_time": 4210.0
         }
       },
       "Walk": {
@@ -1139,7 +1157,7 @@
       }
     }
   },
-  "generated_at": "2026-03-25T18:11:01.670062+00:00",
+  "generated_at": "2026-03-26T18:12:20.223977+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/52574828",
   "repo": "f5thing/statistieken_lopen",
