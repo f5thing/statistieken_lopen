@@ -611,6 +611,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17858141365",
       "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 21,
+      "name": "Nachtsessie krachttraining",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17893284221",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 9,
+      "name": "Eerste halve marathon!\ud83d\udca5\ud83c\udfc3",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17897644267",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1095,6 +1113,15 @@
           "distance": 11065.4,
           "elevation_gain": 0.0,
           "moving_time": 4210.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "17897644267"
+          ],
+          "count": 1,
+          "distance": 21204.8,
+          "elevation_gain": 18.0,
+          "moving_time": 7547.0
         }
       },
       "Walk": {
@@ -1153,11 +1180,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1570.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17893284221"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1295.0
         }
       }
     }
   },
-  "generated_at": "2026-03-28T15:59:00.337898+00:00",
+  "generated_at": "2026-03-29T16:00:14.406947+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/52574828",
   "repo": "f5thing/statistieken_lopen",
