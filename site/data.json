@@ -683,6 +683,42 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18016012393",
       "year": 2026
+    },
+    {
+      "date": "2026-04-07",
+      "hour": 20,
+      "name": "Avondloop",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18017875108",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 8,
+      "name": "Ochtendwandeling",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18022993836",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 12,
+      "name": "Middagwandeling",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18024935473",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 14,
+      "name": "Namiddagwandeling",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18026331528",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1203,6 +1239,15 @@
           "distance": 16160.0,
           "elevation_gain": 13.0,
           "moving_time": 6116.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18017875108"
+          ],
+          "count": 1,
+          "distance": 9676.9,
+          "elevation_gain": 7.0,
+          "moving_time": 3551.0
         }
       },
       "Walk": {
@@ -1250,6 +1295,17 @@
           "distance": 955.0,
           "elevation_gain": 3.0,
           "moving_time": 708.0
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "18022993836",
+            "18024935473",
+            "18026331528"
+          ],
+          "count": 3,
+          "distance": 2268.0,
+          "elevation_gain": 10.0,
+          "moving_time": 2273.0
         }
       },
       "WeightTraining": {
@@ -1301,7 +1357,7 @@
       }
     }
   },
-  "generated_at": "2026-04-07T18:10:45.868672+00:00",
+  "generated_at": "2026-04-08T18:55:53.356287+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/52574828",
   "repo": "f5thing/statistieken_lopen",

@@ -986,5 +986,57 @@
     "start_date_local": "2026-04-07T18:45:45Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 9676.9,
+    "elevation_gain": 7.0,
+    "id": "18017875108",
+    "moving_time": 3551.0,
+    "name": "Avondloop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-07T20:16:12Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 1809.0,
+    "elevation_gain": 8.0,
+    "id": "18022993836",
+    "moving_time": 1805.0,
+    "name": "Ochtendwandeling",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-08T08:21:09Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 134.0,
+    "elevation_gain": 2.0,
+    "id": "18024935473",
+    "moving_time": 140.0,
+    "name": "Middagwandeling",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-08T12:24:42Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 325.0,
+    "elevation_gain": 0.0,
+    "id": "18026331528",
+    "moving_time": 328.0,
+    "name": "Namiddagwandeling",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-08T14:23:40Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
