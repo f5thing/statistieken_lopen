@@ -719,6 +719,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18026331528",
       "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 9,
+      "name": "Football golf met de kids",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18037478322",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 15,
+      "name": "Namiddagwandeling",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18042101042",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1306,6 +1324,16 @@
           "distance": 2268.0,
           "elevation_gain": 10.0,
           "moving_time": 2273.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18037478322",
+            "18042101042"
+          ],
+          "count": 2,
+          "distance": 5445.0,
+          "elevation_gain": 16.0,
+          "moving_time": 5423.0
         }
       },
       "WeightTraining": {
@@ -1357,7 +1385,7 @@
       }
     }
   },
-  "generated_at": "2026-04-08T18:55:53.356287+00:00",
+  "generated_at": "2026-04-09T18:12:44.728810+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/52574828",
   "repo": "f5thing/statistieken_lopen",

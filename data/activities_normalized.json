@@ -1038,5 +1038,31 @@
     "start_date_local": "2026-04-08T14:23:40Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 2687.0,
+    "elevation_gain": 8.0,
+    "id": "18037478322",
+    "moving_time": 2658.0,
+    "name": "Football golf met de kids",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-09T09:02:56Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 2758.0,
+    "elevation_gain": 8.0,
+    "id": "18042101042",
+    "moving_time": 2765.0,
+    "name": "Namiddagwandeling",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-09T15:47:02Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
