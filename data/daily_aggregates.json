@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T18:12:44.722574+00:00",
+  "generated_at": "2026-04-10T17:38:08.426443+00:00",
   "years": {
     "2020": {
       "Ride": {
@@ -527,6 +527,15 @@
           "distance": 9676.9,
           "elevation_gain": 7.0,
           "moving_time": 3551.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18045153129"
+          ],
+          "count": 1,
+          "distance": 10596.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4073.0
         }
       },
       "Walk": {
@@ -595,6 +604,15 @@
           "distance": 5445.0,
           "elevation_gain": 16.0,
           "moving_time": 5423.0
+        },
+        "2026-04-10": {
+          "activity_ids": [
+            "18050271824"
+          ],
+          "count": 1,
+          "distance": 511.0,
+          "elevation_gain": 3.0,
+          "moving_time": 426.0
         }
       },
       "WeightTraining": {
