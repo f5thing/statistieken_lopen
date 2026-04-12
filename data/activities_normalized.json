@@ -1090,5 +1090,31 @@
     "start_date_local": "2026-04-10T09:10:35Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 1972.9,
+    "elevation_gain": 2.0,
+    "id": "18076070731",
+    "moving_time": 852.0,
+    "name": "Middagloop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T11:12:23Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 16595.0,
+    "elevation_gain": 22.0,
+    "id": "18077932356",
+    "moving_time": 6103.0,
+    "name": "Middagloop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T11:28:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
