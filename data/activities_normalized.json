@@ -1142,5 +1142,31 @@
     "start_date_local": "2026-04-14T20:29:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18140356709",
+    "moving_time": 1711.0,
+    "name": "Ochtendsessie krachttraining",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-17T05:24:39Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18140428208",
+    "moving_time": 1056.0,
+    "name": "Ochtendsessie krachttraining",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-17T05:54:26Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
