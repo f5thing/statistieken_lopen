@@ -1168,5 +1168,18 @@
     "start_date_local": "2026-04-17T05:54:26Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 18339.0,
+    "elevation_gain": 17.0,
+    "id": "18167475038",
+    "moving_time": 6142.0,
+    "name": "Ochtendloop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T08:32:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
