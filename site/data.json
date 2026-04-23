@@ -818,6 +818,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18167475038",
       "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 20,
+      "name": "Opwarming prerun",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18216364801",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 20,
+      "name": "Avondloop",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18217205417",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1384,6 +1402,15 @@
           "distance": 18339.0,
           "elevation_gain": 17.0,
           "moving_time": 6142.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18217205417"
+          ],
+          "count": 1,
+          "distance": 11956.0,
+          "elevation_gain": 9.0,
+          "moving_time": 4611.0
         }
       },
       "Walk": {
@@ -1527,11 +1554,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2767.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18216364801"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 197.0
         }
       }
     }
   },
-  "generated_at": "2026-04-22T16:06:56.281555+00:00",
+  "generated_at": "2026-04-23T16:28:53.976364+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/52574828",
   "repo": "f5thing/statistieken_lopen",

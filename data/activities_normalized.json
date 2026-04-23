@@ -1181,5 +1181,31 @@
     "start_date_local": "2026-04-19T08:32:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18216364801",
+    "moving_time": 197.0,
+    "name": "Opwarming prerun",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-22T20:51:46Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 11956.0,
+    "elevation_gain": 9.0,
+    "id": "18217205417",
+    "moving_time": 4611.0,
+    "name": "Avondloop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T20:55:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
