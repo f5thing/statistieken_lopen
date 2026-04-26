@@ -1259,5 +1259,31 @@
     "start_date_local": "2026-04-24T20:22:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18260669504",
+    "moving_time": 281.0,
+    "name": "Ochtendsessie krachttraining",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-26T08:54:23Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 21991.0,
+    "elevation_gain": 33.0,
+    "id": "18262118846",
+    "moving_time": 8209.0,
+    "name": "Halve marathon !",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-26T08:59:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
