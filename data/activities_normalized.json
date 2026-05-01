@@ -1311,5 +1311,70 @@
     "start_date_local": "2026-04-29T20:30:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 5129.0,
+    "elevation_gain": 3.0,
+    "id": "18322945450",
+    "moving_time": 1682.0,
+    "name": "Avondloop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-30T20:28:31Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 7409.0,
+    "elevation_gain": 16.0,
+    "id": "18328610020",
+    "moving_time": 1285.0,
+    "name": "Ochtendrit",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-01T10:01:49Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 7344.0,
+    "elevation_gain": 16.0,
+    "id": "18329402425",
+    "moving_time": 1235.0,
+    "name": "Middagrit",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-01T11:09:20Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 5739.3,
+    "elevation_gain": 13.0,
+    "id": "18332651322",
+    "moving_time": 1172.0,
+    "name": "Namiddagrit",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-01T14:44:35Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 6657.4,
+    "elevation_gain": 19.0,
+    "id": "18333365622",
+    "moving_time": 1208.0,
+    "name": "Namiddagrit",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-01T15:40:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
