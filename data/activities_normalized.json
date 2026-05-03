@@ -1376,5 +1376,31 @@
     "start_date_local": "2026-05-01T15:40:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18355685219",
+    "moving_time": 272.0,
+    "name": "Ochtendsessie krachttraining",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-03T10:47:31Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 13023.7,
+    "elevation_gain": 0.0,
+    "id": "18357420840",
+    "moving_time": 4685.0,
+    "name": "\ud83c\udf27\ufe0fOp de loopband maar \ud83c\udf27\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-03T10:55:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
