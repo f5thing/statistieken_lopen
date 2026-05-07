@@ -1454,5 +1454,18 @@
     "start_date_local": "2026-05-06T17:54:34Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 5148.0,
+    "elevation_gain": 6.0,
+    "id": "18401129558",
+    "moving_time": 1685.0,
+    "name": "Namiddagloop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-06T17:59:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
