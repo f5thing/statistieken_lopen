@@ -1467,5 +1467,57 @@
     "start_date_local": "2026-05-06T17:59:31Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 23112.4,
+    "elevation_gain": 60.0,
+    "id": "18447714794",
+    "moving_time": 8131.0,
+    "name": "Dit was hard maar oh zo goed!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-10T07:28:27Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 1463.0,
+    "elevation_gain": 17.0,
+    "id": "18449693147",
+    "moving_time": 1222.0,
+    "name": "Middagwandeling",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-10T11:24:55Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 6792.9,
+    "elevation_gain": 14.0,
+    "id": "18452522574",
+    "moving_time": 1339.0,
+    "name": "Namiddagrit",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-10T13:18:39Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 6812.2,
+    "elevation_gain": 12.0,
+    "id": "18453381127",
+    "moving_time": 1149.0,
+    "name": "Namiddagrit",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-10T16:04:10Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
