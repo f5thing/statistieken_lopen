@@ -1052,6 +1052,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18453381127",
       "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 19,
+      "name": "Avondsessie krachttraining",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18480073442",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 19,
+      "name": "Avondsessie krachttraining",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18480584885",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 19,
+      "name": "Avondsessie krachttraining",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18481016104",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1955,11 +1982,22 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 263.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18480073442",
+            "18480584885",
+            "18481016104"
+          ],
+          "count": 3,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3737.0
         }
       }
     }
   },
-  "generated_at": "2026-05-12T17:06:18.389635+00:00",
+  "generated_at": "2026-05-13T17:13:00.586782+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/52574828",
   "repo": "f5thing/statistieken_lopen",

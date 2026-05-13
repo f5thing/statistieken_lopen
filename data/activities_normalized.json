@@ -1519,5 +1519,44 @@
     "start_date_local": "2026-05-10T16:04:10Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18480073442",
+    "moving_time": 358.0,
+    "name": "Avondsessie krachttraining",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-12T19:18:53Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18480584885",
+    "moving_time": 1838.0,
+    "name": "Avondsessie krachttraining",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-12T19:25:32Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18481016104",
+    "moving_time": 1541.0,
+    "name": "Avondsessie krachttraining",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-12T19:56:35Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
