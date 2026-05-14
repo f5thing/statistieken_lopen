@@ -1558,5 +1558,31 @@
     "start_date_local": "2026-05-12T19:56:35Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18494401714",
+    "moving_time": 271.0,
+    "name": "Avondsessie krachttraining",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-13T20:23:54Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 7154.0,
+    "elevation_gain": 3.0,
+    "id": "18494987436",
+    "moving_time": 2685.0,
+    "name": "Avondloop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-13T20:28:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
