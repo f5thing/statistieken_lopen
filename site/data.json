@@ -1250,6 +1250,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18665725185",
       "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 19,
+      "name": "Rustige loop voor de 20km van brussel",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18705664532",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2012,6 +2021,15 @@
           "distance": 10291.0,
           "elevation_gain": 26.0,
           "moving_time": 3498.0
+        },
+        "2026-05-29": {
+          "activity_ids": [
+            "18705664532"
+          ],
+          "count": 1,
+          "distance": 5420.0,
+          "elevation_gain": 3.0,
+          "moving_time": 2077.0
         }
       },
       "Walk": {
@@ -2315,7 +2333,7 @@
       }
     }
   },
-  "generated_at": "2026-05-29T18:09:51.977829+00:00",
+  "generated_at": "2026-05-30T16:01:39.259557+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/52574828",
   "repo": "f5thing/statistieken_lopen",

@@ -1805,5 +1805,18 @@
     "start_date_local": "2026-05-26T20:30:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 5420.0,
+    "elevation_gain": 3.0,
+    "id": "18705664532",
+    "moving_time": 2077.0,
+    "name": "Rustige loop voor de 20km van brussel",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-29T19:59:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
