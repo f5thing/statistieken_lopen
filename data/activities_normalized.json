@@ -1818,5 +1818,44 @@
     "start_date_local": "2026-05-29T19:59:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18725018045",
+    "moving_time": 330.0,
+    "name": "Ochtendsessie krachttraining",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-31T10:40:13Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 666.0,
+    "elevation_gain": 0.0,
+    "id": "18725057396",
+    "moving_time": 280.0,
+    "name": "Ochtendloop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T10:46:28Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 20402.0,
+    "elevation_gain": 197.0,
+    "id": "18729514171",
+    "moving_time": 6840.0,
+    "name": "\ud83c\udfc3\ud83c\udfc320 km van Brussel \ud83c\udfc3\ud83c\udfc3",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T11:29:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
