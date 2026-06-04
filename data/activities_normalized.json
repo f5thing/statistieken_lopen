@@ -1857,5 +1857,18 @@
     "start_date_local": "2026-05-31T11:29:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 3907.6,
+    "elevation_gain": 0.0,
+    "id": "18774506937",
+    "moving_time": 1417.0,
+    "name": "En toen was de loopband kapot  \ud83e\udee0",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-03T20:41:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
