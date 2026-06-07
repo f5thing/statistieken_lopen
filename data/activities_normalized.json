@@ -1883,5 +1883,31 @@
     "start_date_local": "2026-06-04T20:18:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18818849405",
+    "moving_time": 315.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-07T08:58:16Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 28949.0,
+    "elevation_gain": 90.0,
+    "id": "18821032052",
+    "moving_time": 10512.0,
+    "name": "We zullen eens naar mijn ouders lopen\ud83c\udfc3",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T09:04:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
