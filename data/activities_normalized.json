@@ -2052,5 +2052,57 @@
     "start_date_local": "2026-06-20T14:54:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 5678.0,
+    "elevation_gain": 30.0,
+    "id": "19000242490",
+    "moving_time": 988.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-20T19:18:35Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19004930186",
+    "moving_time": 284.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-21T07:01:37Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 24813.5,
+    "elevation_gain": 43.0,
+    "id": "19006144868",
+    "moving_time": 10341.0,
+    "name": "Ochtendloop voor de warmte!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-21T07:06:56Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 5616.7,
+    "elevation_gain": 14.0,
+    "id": "19010091021",
+    "moving_time": 918.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-21T14:36:32Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -1421,6 +1421,42 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18996926552",
       "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19000242490",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 7,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19004930186",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 7,
+      "name": "Ochtendloop voor de warmte!",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19006144868",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19010091021",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1652,12 +1688,22 @@
         },
         "2026-06-20": {
           "activity_ids": [
-            "18996926552"
+            "18996926552",
+            "19000242490"
+          ],
+          "count": 2,
+          "distance": 11279.0,
+          "elevation_gain": 48.0,
+          "moving_time": 1933.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19010091021"
           ],
           "count": 1,
-          "distance": 5601.0,
-          "elevation_gain": 18.0,
-          "moving_time": 945.0
+          "distance": 5616.7,
+          "elevation_gain": 14.0,
+          "moving_time": 918.0
         }
       },
       "Run": {
@@ -2274,6 +2320,15 @@
           "distance": 6694.0,
           "elevation_gain": 9.0,
           "moving_time": 2312.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19006144868"
+          ],
+          "count": 1,
+          "distance": 24813.5,
+          "elevation_gain": 43.0,
+          "moving_time": 10341.0
         }
       },
       "Walk": {
@@ -2637,11 +2692,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 917.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19004930186"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 284.0
         }
       }
     }
   },
-  "generated_at": "2026-06-20T16:14:23.000859+00:00",
+  "generated_at": "2026-06-21T16:27:14.164246+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/52574828",
   "repo": "f5thing/statistieken_lopen",
