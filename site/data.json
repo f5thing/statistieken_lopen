@@ -1493,6 +1493,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19064976458",
       "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19102791441",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2383,6 +2392,15 @@
           "distance": 4839.0,
           "elevation_gain": 14.0,
           "moving_time": 1713.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19102791441"
+          ],
+          "count": 1,
+          "distance": 16868.7,
+          "elevation_gain": 90.0,
+          "moving_time": 5784.0
         }
       },
       "Walk": {
@@ -2769,7 +2787,7 @@
       }
     }
   },
-  "generated_at": "2026-06-28T16:06:34.285463+00:00",
+  "generated_at": "2026-06-29T17:32:01.474705+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/52574828",
   "repo": "f5thing/statistieken_lopen",
